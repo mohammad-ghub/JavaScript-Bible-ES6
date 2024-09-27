@@ -1,1 +1,3 @@
 ES6
+ES2015
+EchmaScript2015
